@@ -1,2 +1,2 @@
-# Optimizing-Revenue
-Maximizing Profit of a flight company using HUI-Miner algorithm
+# Stock market prediction
+Stock market prediction is a method of predicting the futuristic value of a company stock. The predictive analysis can be performed using fundamental, technical, or data mining techniques. The proposed application revolves around the issues of a customer regarding a safe investment in the stock market with high profits. Extensive experiments are conducted to evaluate the performance of HUIMSMP.The results show that the proposed algorithm reduces the number of candidates and runs effectively when a database contains number of long transactions.
